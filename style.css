@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: aliceblue;
+    background-color: rgb(49, 147, 233);
 
 }
 main{
@@ -13,5 +13,5 @@ main{
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px, 3px, 5px black;
+    box-shadow: 3px, 3px, 5px rgb(37, 36, 36);
 }
