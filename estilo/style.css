@@ -4,21 +4,17 @@
 
 }
 
-body{
+body {
     background-color: rgb(96, 111, 125);
 
 }
-main{
+
+main {
     background-color: rgb(255, 255, 255);
     width: 1000px;
     margin: auto;
     padding: 10px;
     box-shadow: 10px 10px 5px rgb(0, 0, 0);
-    border-radius: 25px;rgb(0, 0, 0)
-    background: #ffff;
-    padding: 20px;
-    width: 1000px;
-    height: 800px;
+    border-radius: 25px;
 
-    
 }
